@@ -2,7 +2,7 @@
 Extraction data from any table type (either string or table type) as XVLOOKUP by selecting any column key and any column return
 
 Source initial code from
-========================   
+
   http://www.excelguru.ca
   
   http://www.excelguru.ca/blog/2015/01/28/creating-a-vlookup-function-in-power-query/
